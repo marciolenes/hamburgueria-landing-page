@@ -17,4 +17,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Hamburgueria Landing Page](https://simulador-loteria.netlify.app/)
+- [Hamburgueria Landing Page](https://hamburgueria-landingpage.netlify.app/)
